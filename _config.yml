@@ -3,3 +3,5 @@ description: 黑法部之家
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: docs/二维码.png
